@@ -1,0 +1,1 @@
+# -to-calculate-sum-of-digit-of-a-given-number-until-number-reduces-to-single-digit.
